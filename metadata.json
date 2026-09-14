@@ -1,0 +1,6 @@
+{
+  "name": "Weather Intelligence",
+  "description": "A weather intelligence app providing forecasts, charts, and recommendations using Open-Meteo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
